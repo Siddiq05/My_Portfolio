@@ -14,7 +14,7 @@ const Header = () => {
   const Hover = `hover:text-orange-700`;
   return (
     <div
-      className={`flex w-full justify-between items-center fixed p-2 md:p-5 lg:h-[10vh] top-0 `}
+      className={`flex w-full justify-between items-center fixed p-2 md:p-5 lg:h-[10vh] top-0 bg-white`}
     >
       <Link to="/" className="w-1/2 md:w-5/12 lg:w-[20%]" onClick={closeMenu}>
         <img src={Logo} alt="" />

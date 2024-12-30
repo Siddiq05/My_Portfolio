@@ -29,7 +29,7 @@ const Home = () => {
       }
     };
 
-    const timer = setTimeout(handleTyping, 300);
+    const timer = setTimeout(handleTyping, 250);
 
     return () => clearTimeout(timer); // Cleanup timeout
   }, [currentTitle, isDeleting, loopIndex]);
