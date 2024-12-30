@@ -12,8 +12,6 @@ function App() {
       <Router>
         <Header />
         <div className="mt-[10vh]">
-          {" "}
-          {/* Wrapper for consistent layout */}
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />

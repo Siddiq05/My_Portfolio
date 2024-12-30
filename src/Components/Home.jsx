@@ -74,7 +74,7 @@ const Home = () => {
             <FaLinkedin />
           </a>
           <a
-            href="/path-to-your-resume.pdf" // Replace with the actual path to your resume file
+            href="https://black-nicki-6.tiiny.site" // Replace with the actual path to your resume file
             download
             className="hover:orange-gray-700"
             title="Download Resume"
