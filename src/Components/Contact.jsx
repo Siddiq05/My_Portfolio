@@ -119,7 +119,7 @@ function Contact() {
               <FaGithub size={30} />
             </a>
             <a
-              href="https://www.linkedin.com/in/MohamedSiddiq"
+              href="https://www.linkedin.com/in/mohamed-siddiq-139109206/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-blue-700 hover:text-gray-900 transition duration-300"

@@ -65,7 +65,7 @@ const Home = () => {
             <FaGithub />
           </a>
           <a
-            href="https://www.linkedin.com/in/your-username/"
+            href="https://www.linkedin.com/in/mohamed-siddiq-139109206/"
             target="_blank"
             rel="noopener noreferrer"
             className=" hover:text-blue-700"
